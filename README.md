@@ -1,7 +1,5 @@
 # Unit 5 - Financial Planning
 
-![Financial Planner](Images/financial-planner.png)
-
 ## Background
 
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
